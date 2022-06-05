@@ -1,0 +1,65 @@
+Get services error: servicesCategory is not defined 2022-02-06 14:18:58 
+Get services error: Incorrect category 2022-02-06 14:31:37 
+Get services error: service_option is associated to service using an alias. You must use the 'as' keyword to specify the alias within your include statement. 2022-02-14 12:53:47 
+Get services error: doctor is associated to service using an alias. You must use the 'as' keyword to specify the alias within your include statement. 2022-02-14 13:39:13 
+Get services error: doctor is associated to service using an alias. You've included an alias (doctors), but it does not match the alias(es) defined in your association (services). 2022-02-14 13:41:18 
+Get services error: service is not associated to service! 2022-02-14 13:41:43 
+Get services error: doctor is associated to service using an alias. You've included an alias (doctors), but it does not match the alias(es) defined in your association (services). 2022-02-14 13:45:14 
+Get services error: doctor is associated to service using an alias. You've included an alias (doctors), but it does not match the alias(es) defined in your association (services). 2022-02-14 13:46:22 
+Get services error: Cannot read property 'getTableName' of undefined 2022-02-28 09:31:56 
+Get services error: Cannot read property 'getTableName' of undefined 2022-02-28 09:35:59 
+Get services error: Unable to find a valid association for model, 'clinic_contact' 2022-02-28 09:51:27 
+Get services error: Cannot read property 'map' of undefined 2022-02-28 09:54:45 
+Get services error: mainContacts.append is not a function 2022-02-28 09:58:55 
+Get services error: mainContacts is not defined 2022-02-28 10:01:03 
+Get services error: clinicsData is not defined 2022-02-28 10:09:44 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-03-04 06:17:42 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-05 04:31:12 
+Login error: Incorrect login or password 2022-04-14 07:08:58 
+Add service error: Cannot add or update a child row: a foreign key constraint fails (`oftalmolog_sys`.`service_doctors`, CONSTRAINT `service_doctors_ibfk_1` FOREIGN KEY (`id`) REFERENCES `services` (`id`) ON UPDATE CASCADE) 2022-04-14 15:52:19 
+Add service error: Cannot add or update a child row: a foreign key constraint fails (`oftalmolog_sys`.`service_doctors`, CONSTRAINT `service_doctors_ibfk_1` FOREIGN KEY (`id`) REFERENCES `services` (`id`) ON UPDATE CASCADE) 2022-04-14 16:13:29 
+Edit service error: Cannot access 'serviceData' before initialization 2022-04-14 16:45:44 
+Edit service error: Incorrect id 2022-04-15 15:28:01 
+Add doctor service error: Incorrect id 2022-04-15 15:28:37 
+Add doctor service error: Incorrect id 2022-04-15 15:30:51 
+Add doctor service error: Incorrect id 2022-04-15 15:31:35 
+Add doctor service error: Incorrect id 2022-04-15 15:31:50 
+Add doctor service error: Validation error 2022-04-15 15:37:40 
+Add doctor service error: Validation error 2022-04-15 15:38:50 
+Add doctor service error: Validation error 2022-04-15 15:47:10 
+Add doctor service error: models.ServiceDoctors.find is not a function 2022-04-15 15:48:44 
+Add doctor service error: Validation error 2022-04-15 15:52:21 
+Add doctor service error: Validation error 2022-04-15 15:58:42 
+Add doctor service error: Врач уже привязан к услуге 2022-04-15 16:01:06 
+Remove doctor service error: Truncated incorrect DOUBLE value: '[object Object]' 2022-04-16 15:52:32 
+Remove doctor service error: Truncated incorrect DOUBLE value: '[object Object]' 2022-04-16 15:55:18 
+Add doctor service error: Врач уже привязан к услуге 2022-04-16 15:58:48 
+Add doctor service error: Врач уже привязан к услуге 2022-04-16 15:59:26 
+Add doctor service error: Врач уже привязан к услуге 2022-04-16 16:05:15 
+Add doctor service error: Врач уже привязан к услуге 2022-04-16 16:10:42 
+Remove doctor service error: Врач не привязан к услуге 2022-04-16 16:13:19 
+Add doctor service error: notNull Violation: service_doctor.serviceId cannot be null,
+notNull Violation: service_doctor.doctorId cannot be null 2022-04-16 16:50:55 
+Add doctor service error: Врач уже привязан к услуге 2022-04-17 08:32:15 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-17 10:20:33 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-17 10:21:00 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-17 10:23:06 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-17 10:24:31 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-17 10:58:15 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-17 10:58:42 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-17 10:59:36 
+Login error: WHERE parameter "login" has invalid "undefined" value 2022-04-17 11:02:31 
+Add service error: Cannot read property 'map' of undefined 2022-04-19 06:49:38 
+Add service error: Cannot read property 'map' of undefined 2022-04-19 06:54:34 
+Add service error: Incorrect integer value: '' for column 'doctorId' at row 1 2022-04-19 09:35:24 
+Add service error: Data truncated for column 'price' at row 1 2022-05-09 10:33:55 
+Add service error: Data truncated for column 'price' at row 1 2022-05-09 10:35:18 
+Login error: Incorrect login or password 2022-05-10 14:42:19 
+Edit service error: lastName is not defined 2022-05-10 15:13:37 
+Login error: Incorrect login or password 2022-05-18 12:30:46 
+Login error: Incorrect login or password 2022-05-24 20:15:34 
+Registration error: userService is not defined 2022-05-24 20:18:02 
+Registration error: moment is not defined 2022-05-24 20:26:14 
+Registration error: bcrypt is not defined 2022-05-24 20:26:55 
+Registration error: login is not defined 2022-05-24 20:27:44 
+Login error: Incorrect login or password 2022-05-24 20:33:41 
